@@ -1,2 +1,2 @@
-# TEST-REPO.
+# RetrofitwithRecyclerViewHorizontalAndVertical.
 short detail for the project 
